@@ -18,7 +18,7 @@ public class Product // Товар
         this.price = price;
         this.storagePeriod = storagePeriod;
         this.quantity = quantity;
-        System.out.println("Продукт додано.");
+        System.out.println("Продукт " + this.name + " додано.");
     }
 
     // Сетери і гетери для доступу до властивостей товару

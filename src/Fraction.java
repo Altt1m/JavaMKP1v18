@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 class Fraction // Звичайний дріб
 {
     private int numerator; // Чисельник
